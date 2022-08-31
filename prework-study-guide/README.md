@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-Each section of this Prework Study Guide contains helpful notes for the listed topics, which are HTML, CSS, JavaScript, and Git. If you open the DevTools console, you can see the JavaScript built into the Prework Study Guide run. The console can randomly recommend a topic to study. 
+Each section of this Prework Study Guide contains helpful notes for the listed topics, which are HTML, CSS, JavaScript, and Git. If you open the DevTools console, you can see the JavaScript built into the Prework Study Guide run. The console can randomly recommend a topic to study. This helps students know what to study first. 
 
 ## Credits
 
